@@ -8,7 +8,9 @@ Bahasha is a personal finance management system that uses the envelope budgeting
 
 ## Features
 
-(List main features here)
+- Envelope budgeting system
+- Supabase integration
+- Next.js framework
 
 ## Contributing
 
